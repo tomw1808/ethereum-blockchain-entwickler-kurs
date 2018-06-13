@@ -43,7 +43,7 @@
       "settings": {
         "main": true,
         "title": "Ethereum Blockchain Entwickler Kurs 2018 - Lerne Solidity, Truffle, Ganache, Web3 und vieles mehr!",
-        "meta_descr": "",
+        "meta_descr": "Lerne alles über Ethereum, Solidity, Go-Etheruem, Remix, Truffle, Smart Contracts, Web3.js, Debugging, Unit Tests und viele mehr. Der einzige Ethereum Kurs den du in deinem Leben brauchst!",
         "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-87156574-3\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-87156574-3',{ 'anonymize_ip': true });\n\n</script>\n",
         "footer_custom": "",
         "html_before": ""

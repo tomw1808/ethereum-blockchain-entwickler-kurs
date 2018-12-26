@@ -40,8 +40,6 @@
     "cookiesAlert": "Ich benutze Cookies um die Website zu verbessern. Lies alles über <a href='https://cookiesandyou.com/'>Cookies hier</a>.",
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
-    "publishType": "local",
-    "publishPath": "file:///D:/Dropbox/Documents",
     "gdpr": ""
   },
   "pages": {
